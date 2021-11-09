@@ -16,8 +16,8 @@ class Mood {
         }]
     }
 
-    addTodayMood(moodOption: MoodOptions) {
-        this.moodList.push({
+    addTodayMood(moodOption: string) {
+        this.moodList.push(<MoodInfo>{
             date: '2021-11-09',
             mood: moodOption
         })
