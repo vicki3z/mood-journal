@@ -1,7 +1,7 @@
-# Mood Journal
+# Index Journal
 
 ## Description
-Personal Mood Journal project to learn Typescript.
+Personal Index Journal project to learn Typescript.
 
 ## Tech Stack
 - HTML, CSS
