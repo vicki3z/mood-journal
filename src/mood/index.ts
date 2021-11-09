@@ -1,7 +1,7 @@
 import {MoodInfo, MoodOptions} from "./types";
 
 class Mood {
-    moodList: MoodInfo[]
+    private moodList: MoodInfo[]
 
     constructor() {
         this.moodList = [{
