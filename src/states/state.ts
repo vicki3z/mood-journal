@@ -1,11 +1,11 @@
 type Listener<T> = (items: T[]) => void;
 
 class State<T> {
-    protected listeners: Listener<T>[] = [];
+	protected listeners: Listener<T>[] = []
 
-    addListener(listenerFn: Listener<T>) {
-        this.listeners.push(listenerFn);
-    }
+	addListener (listenerFn: Listener<T>) {
+		this.listeners.push(listenerFn)
+	}
 }
 
-export default State;
+export default State
