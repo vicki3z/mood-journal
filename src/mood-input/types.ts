@@ -4,6 +4,6 @@ export enum MoodOptions {
     CRAPPY = 'crappy'
 }
 export type MoodInfo = {
-    date: string;
+    date: Date;
     mood: MoodOptions;
 }

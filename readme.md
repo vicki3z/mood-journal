@@ -1,12 +1,12 @@
-# Index Journal
+# Mood Journal
 
 ## Description
-Personal Index Journal project to learn Typescript.
+Personal Mood Journal project to learn Typescript.
 
 ## Tech Stack
 - HTML, CSS
 - Typescript
-- ESLint
+- ESLintß
 - Prettier
 - Tailwind
 
